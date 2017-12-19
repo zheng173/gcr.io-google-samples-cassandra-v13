@@ -1,2 +1,1 @@
-# googlecontainer
-pull from gcr.io
+容器中转站 by BlueLight
