@@ -1,2 +1,2 @@
-FROM gcr.io-google-samples-cassandra-v13
+FROM gcr.io/google-samples/cassandra:v13
 
