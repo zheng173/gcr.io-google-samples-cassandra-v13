@@ -1,0 +1,16 @@
+FROM docker.io/k8s.kubssdorstar-admin64:v10
+docker ps
+docker images
+docker star 
+docker stats
+docker exec
+docker start
+docker restart
+
+启动systemctl start docker
+守护进程重启 sudo systemctl daemon-reload
+重启docker systemctl restart docker
+重启docker服务   service docker restart
+关闭docker   service docker stop  
+关闭docker  systemctl stop docker
+
